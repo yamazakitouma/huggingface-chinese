@@ -5,7 +5,7 @@
 // @copyright    2026
 // @icon         https://huggingface.co/front/assets/huggingface_logo-noborder.svg
 // @version      1.2.0
-// @author       蛋定的文弱书生
+// @author       yamazakitouma
 // @license      GPL-3.0
 // @match        https://huggingface.co/*
 // @match        https://*.huggingface.co/*
